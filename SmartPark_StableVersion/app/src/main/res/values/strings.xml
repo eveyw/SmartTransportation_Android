@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Smartpark</string>
+    <string name="default_id">id</string>
+    <string name="default_timestamp">timestamp</string>
+    <string name="default_latitude">latitude</string>
+    <string name="default_longitude">longitude</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="sr_key_all">all</string>
+    <string name="sr_key_accelerometer">accelerometer</string>
+    <string name="sr_key_gyroscope">gyroscope</string>
+    <string name="sr_key_motionstate">motionstate</string>
+    <string name="sr_key_gps">location</string>
+    <string name="sr_key_step">step</string>
+
+    <string name="url_gps">http://cs.binghamton.edu/~smartpark/android/gps.php</string>
+    <string name="url_acce">http://cs.binghamton.edu/~smartpark/android/accelerometer.php</string>
+    <string name="url_gyro">http://cs.binghamton.edu/~smartpark/android/gyroscope.php</string>
+    <string name="url_step">http://cs.binghamton.edu/~smartpark/android/step.php</string>
+    <string name="url_motion">http://cs.binghamton.edu/~smartpark/android/motionstate.php</string>
+    <string name="url_wifi">http://cs.binghamton.edu/~smartpark/android/wifi.php</string>
+    <string name="url_battery">http://cs.binghamton.edu/~smartpark/android/battery.php</string>
+
+</resources>
